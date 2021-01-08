@@ -1,0 +1,3 @@
+[submodule "zipkin-instrumentation-typeorm"]
+	path = zipkin-instrumentation-typeorm
+	url = git@github.com:niklaus0823/zipkin-instrumentation-typeorm.git
